@@ -9,7 +9,7 @@ Em 2021 aprendi React e React Native.<br><br>
 
 Confira meus últimos projetos e suas respectivas tecnologias:
 
-### Wordpress:
+### Wordpress (2020):
 
 <details><summary>Cafeeira Zé do Flor [Agrícola 🍃]<br></summary>
 
@@ -39,7 +39,7 @@ Tema próprio, custom post types, filtros avançados.
  Tema próprio, Woocommerce.
  </details>
 
-### ReactJS:
+### ReactJS (2021):
 
 <details><summary>NossaNet [Internet 🌐]</summary>
 
@@ -60,11 +60,11 @@ Tema próprio, custom post types, filtros avançados.
  
  </details>
  
-- Signet https://signet.kassio.site
-- Sarah Jacob https://sara.kassio.site
-- Propter https://propter.kassio.site
-- Bibi https://bibi.kassio.site (em construção)
-- Tion https://tion.kassio.site (em construção)
+- Signet https://signet.kassio.site 🌐
+- Sarah Jacob https://sara.kassio.site 👗
+- Propter https://propter.kassio.site 💸
+- Bibi https://bibi.kassio.site (em construção) 🛵
+- Tion https://tion.kassio.site (em construção) 🚗
 
 ### React Native:
 - BeeOrto [PlayStore](https://play.google.com/store/apps/details?id=com.beorto)
