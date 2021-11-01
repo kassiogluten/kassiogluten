@@ -11,35 +11,60 @@ Confira meus últimos projetos e suas respectivas tecnologias:
 
 ### Wordpress:
 
-<details><summary>Cafeeira Zé do Flor [Agrícola]<br></summary>
+<details><summary>Cafeeira Zé do Flor [Agrícola 🍃]<br></summary>
 
 [zedoflor.com.br](https://zedoflor.com.br)<br />
 Site institucional para uma cafeeira. <br />
 Tema próprio, popup's.
 </details>
  
- <details><summary>Vital Saude Card [Saúde]</summary>
+ <details><summary>Vital Saude Card [Saúde 💊]</summary>
  
 [vitalsaude.com.br](https://vitalsaude.com.br)<br />
 Site institucional para uma empresa de cartão desconto.<br />
 Tema próprio, custom post types, filtros avançados.
  </details>
 
-<details><summary>Construtora GN Martins [Construção]</summary>
+<details><summary>Construtora GN Martins [Engenharia 🏗️]</summary>
 
 [gnmartins.com.br](https://gnmartins.com.br)<br />
  Site institucional e vitrine para uma construtora divulgar seus imóveis.<br />
  Tema próprio, custom post types, custom field's, looping.
  </details>
+ 
+ <details><summary>Caverna Sports [E-commerce 🛒]</summary>
+
+[cavernasports.com.br](https://loja.cavernasports.com.br)<br />
+ Loja online para produtos esportivos.<br />
+ Tema próprio, Woocommerce.
+ </details>
 
 ### ReactJS:
 
-- LedMinas https://ledminas.kassio.site
-- NossaNet https://nossanet.kassio.site
+<details><summary>NossaNet [Internet 🌐]</summary>
+
+[nossanet.kassio.site](https://nossanet.kassio.site)<br />
+ Site institucional para um provedor de internet. <br />
+ Meu primeiro site em React, usado para experimentos com: styled components, css tradicional, sass, framer motion, emailjs  <br />
+ 
+
+ </details>
+ 
+ 
+ <details><summary>Telão LedMinas [Publicidade 📺]</summary>
+
+[ledminas.com.br](https://ledminas.com.br)<br />
+  Landingpage para uma empresa de telão de publicidade.<br />
+ NextJS, ChakraUI, React Hook Form, Css modules, Sass, ContextApi.<br />
+ Backend do Nextjs: requisições com Axios para envio de emails do Sendgrid.
+ 
+ </details>
+ 
 - Signet https://signet.kassio.site
 - Sarah Jacob https://sara.kassio.site
 - Propter https://propter.kassio.site
-- Bibi https://bibi.kassio.site
+- Bibi https://bibi.kassio.site (em construção)
+- Tion https://tion.kassio.site (em construção)
 
 ### React Native:
 - BeeOrto [PlayStore](https://play.google.com/store/apps/details?id=com.beorto)
