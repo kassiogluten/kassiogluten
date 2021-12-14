@@ -64,7 +64,7 @@ Tema próprio, custom post types, filtros avançados.
 - Sarah Jacob https://sara.kassio.site 👗
 - Propter https://propter.kassio.site 💸
 - Bibi https://bibi.kassio.site (em construção) 🛵
-- Tion https://tion.kassio.site (em construção) 🚗
+- Tion https://tionapp.com.br (em construção) 🚗
 
 ### React Native:
 - BeeOrto [PlayStore](https://play.google.com/store/apps/details?id=com.beorto)
