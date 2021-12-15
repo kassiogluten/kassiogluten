@@ -65,34 +65,43 @@ Tema próprio, custom post types, filtros avançados.
  NextJS, ChakraUI, React Hook Form, ContextApi, PrismicCMS.<br />
  Backend do Nextjs: requisições com Axios para envio de emails do Sendgrid.<br />
  Integração com sistema de assinatuas D4sign
+ 
  </details>
  
  
 <details><summary>Sarah Jacob [Moda 👗]</summary>
+ 
 [sara.kassio.site](https://sara.kassio.site)<br />
  Site institucional para uma estilista. <br />
  NextJS, ChakraUI, React Hook Form, ContextApi, GraphQL.<br />
  Backend do Nextjs: requisições com Axios para envio de emails do Sendgrid.
+ 
  </details>
  
  <details><summary>Propter Negócios [Contabilidade 💸]</summary>
+ 
 [propter.kassio.site](https://propter.kassio.site)<br />
  Site institucional para um contador. <br />
  NextJS, ChakraUI, React Hook Form, ContextApi.<br />
  Backend do Nextjs: requisições com Axios para envio de emails do Sendgrid.
+ 
  </details>
  
  <details><summary>Tion App [Mobilidade 🚗]</summary>
+ 
 [tionapp.com.br](https://tionapp.com.br)<br />
  Site institucional para um aplicativo de mobilidade urbana. <br />
  NextJS, ChakraUI, React Hook Form.<br />
  Backend do Nextjs: requisições com Axios para envio de emails do Sendgrid.
+ 
  </details>
  
   <details><summary>Bibi Delivery [Entregas 🛵]</summary>
+ 
 [bibi.kassio.site](https://bibi.kassio.site)<br />
  Site institucional para um aplicativo de entregas. <br />
 Em construção
+ 
  </details>
 
 
