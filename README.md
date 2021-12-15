@@ -82,7 +82,7 @@ Tema próprio, custom post types, filtros avançados.
  Backend do Nextjs: requisições com Axios para envio de emails do Sendgrid.
  </details>
  
- <details><summary>Propter Negócios [Mobilidade 🚗]</summary>
+ <details><summary>Tion App [Mobilidade 🚗]</summary>
 [tionapp.com.br](https://tionapp.com.br)<br />
  Site institucional para um aplicativo de mobilidade urbana. <br />
  NextJS, ChakraUI, React Hook Form.<br />
