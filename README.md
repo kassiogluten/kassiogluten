@@ -103,6 +103,23 @@ Tema próprio, custom post types, filtros avançados.
 Em construção
  
  </details>
+ 
+ ### WEB Apps | ReactJS (2022):
+
+<details><summary>BeeOrtho [Dentista 🦷]</summary>
+
+[BeeOrtho.com](https://beeortho.com)<br />
+ Aplicativo web para dentistas gerenciarem seus pacientes com dados ortodonticos. <br />
+ Autenticação com conta Google, CRUD com firebase, layout com ChakraUi, Data fetching clientside <br />
+ </details>
+ 
+ <details><summary>CineItauna [Cinema 🎥]</summary>
+
+[CineItauna.kassio.site](https://cineitauna.kassio.site)<br />
+ Aplicativo web para os colaboradores do cinema gerar imagens de social media. <br />
+ Escolha o filme e clique na imagem para alterar os dados. <br />
+ Lista automática de filmes sempre atualizada com API, canvas para salvar a div com jpg. <br />
+ </details>
 
 
 ### App's | React Native:
