@@ -22,6 +22,12 @@ Em 2020 aprendi React e React Native e no início de 2021 ja coloquei em prátic
 Confira meus últimos projetos e suas respectivas tecnologias:
 
 ### WEB Apps | ReactJS (2022):
+<details><summary>Volpi Tech [Financeiro 🪙] {TS, ChakraUi}</summary>
+
+[Volpi.kassio.site](https://volpi.kassio.site)<br />
+ Site institucional e calculadora para financiamentos imobiliários. <br />
+ Typescript e Chakra-Ui, projeto com React tradicional <br />
+ </details>
 
 <details><summary>BeeOrtho [Dentista 🦷] {JS, ChakraUi, Firebase}</summary>
 
@@ -104,10 +110,12 @@ Confira meus últimos projetos e suas respectivas tecnologias:
 Em construção
  
  </details>
- 
- ### Wordpress (2020):
-
-<details><summary>Cafeeira Zé do Flor [Agrícola 🍃]<br></summary>
+ <br>
+ <details>
+  <summary>
+    ### Wordpress (2020):
+  </summary>
+ <details><summary>Cafeeira Zé do Flor [Agrícola 🍃]<br></summary>
 
 [zedoflor.com.br](https://zedoflor.com.br)<br />
 Site institucional para uma cafeeira. <br />
@@ -134,10 +142,12 @@ Tema próprio, custom post types, filtros avançados.
  Loja online para produtos esportivos.<br />
  Tema próprio, Woocommerce.
  </details>
-
+ </details>
+ 
+ <br>
 
 ### App's | React Native:
-- BeeOrto [PlayStore](https://play.google.com/store/apps/details?id=com.beorto)
+- BeeOrto [PlayStore](https://play.google.com/store/apps/details?id=com.beeortho.twa)
 
 <br>
 
