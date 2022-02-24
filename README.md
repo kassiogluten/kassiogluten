@@ -22,7 +22,14 @@ Em 2020 aprendi React e React Native e no início de 2021 ja coloquei em prátic
 Confira meus últimos projetos e suas respectivas tecnologias:
 
 ### WEB | ReactJS (2022):
-<details><summary>Marina Fernandes [Blogueira 👩] {Next, ChakraUi, GrapQl}</summary>
+<details><summary>Meerkat [CRM 🦂] {Next, ChakraUi, GrapQl, Dashboard, Stripe, Webhooks}</summary>
+ 
+ [(EM BREVE)](https://marina2022.vercel.app)<br />
+ Institucional de uma agencia de publicidade, plataforma / Dashboard para controle de clientes, assinatura premium (stripe)  <br />
+ Chakra-Ui, NextJS, Stripe, Webhooks, Autenticação com firebase. <br />
+ </details>
+
+<details><summary>Marina Fernandes [Blogueira 👩] {Next, ChakraUi, GrapQl}</summary>(EM CONSTRUÇÃO)
 
 [Marina.kassio.site](https://marina2022.vercel.app)<br />
  Um Blog no nicho feminino / fitness / mamães / viagens para a influencer Marina Fernandes. <br />
