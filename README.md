@@ -24,8 +24,8 @@ Confira meus últimos projetos e suas respectivas tecnologias:
 ### WEB | ReactJS (2022):
 <details><summary>Meerkat [CRM 🦂] {Next, ChakraUi, GrapQl, Dashboard, Stripe, Webhooks}</summary>
  
- [(EM BREVE)](https://marina2022.vercel.app)<br />
- Institucional de uma agencia de publicidade, plataforma / Dashboard para controle de clientes, assinatura premium (stripe)  <br />
+ [EM BREVE](#)<br />
+ Institucional de uma agencia de publicidade, plataforma / dashboard para controle de clientes, pagamentos de assinatura premium (stripe)  <br />
  Chakra-Ui, NextJS, Stripe, Webhooks, Autenticação com firebase. <br />
  </details>
 
