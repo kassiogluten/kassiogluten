@@ -21,7 +21,15 @@ Em 2020 aprendi React e React Native e no início de 2021 ja coloquei em prátic
 
 Confira meus últimos projetos e suas respectivas tecnologias:
 
-### WEB Apps | ReactJS (2022):
+### WEB | ReactJS (2022):
+<details><summary>Marina Fernandes [Blogueira 👩] {Next, ChakraUi, GrapQl}</summary>
+
+[Marina.kassio.site](https://marina2022.vercel.app)<br />
+ Um Blog no nicho feminino / fitness / mamães / viagens para a influencer Marina Fernandes. <br />
+ GraphCMS, GrapQl e Chakra-Ui. NextJS com geração estática (SSG) <br />
+ </details>
+ 
+ 
 <details><summary>Volpi Tech [Financeiro 🪙] {TS, ChakraUi}</summary>
 
 [Volpi.kassio.site](https://volpi.kassio.site)<br />
