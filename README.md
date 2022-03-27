@@ -28,16 +28,36 @@ Confira meus últimos projetos e suas respectivas tecnologias:
  Institucional de uma agencia de publicidade, plataforma / dashboard para controle de clientes, pagamentos de assinatura premium (stripe)  <br />
  Chakra-Ui, NextJS, Stripe, Webhooks, Autenticação com firebase. <br />
  </details>
+ 
+ <details><summary>LHF Asset [Investimentos 📈] {Next, ChakraUi}</summary>
 
-<details><summary>Marina Fernandes [Blogueira 👩] {Next, ChakraUi, GrapQl}</summary>(EM CONSTRUÇÃO)
+[LHF.kassio.site](https://lhf.kassio.site)<br />
+ Dashboard web para controle de investimentos. <br />
+ EM CONSTRUÇÃO
+ </details>
+ 
+ <details><summary>Mais Voce Motors [Leilão 🚘] {Next, ChakraUi, Firebase}</summary>
 
-[Marina.kassio.site](https://marina2022.vercel.app)<br />
+[MaisVoceMotors.com.br](https://maisvocemotors.com.br)<br />
+ Sistema web e Landing Page para leilão de veículos. <br />
+ Autenticação com conta Google, CRUD com firebase, layout com ChakraUi, Data fetching clientside <br />
+ </details>
+ 
+ <details><summary>Lara Machado [Estética 💅] {Next, ChakraUi, API}</summary>
+
+[lara.kassio.site](https://lara.kassio.site)<br />
+ Landing page para um info produto de estética. <br />
+ </details>
+
+<details><summary>Marina Fernandes [Blogueira 👩] {Next, ChakraUi, GrapQl}</summary>
+
+[Marina.kassio.site](https://marina.kassio.site)<br />
  Um Blog no nicho feminino / fitness / mamães / viagens para a influencer Marina Fernandes. <br />
  GraphCMS, GrapQl e Chakra-Ui. NextJS com geração estática (SSG) <br />
  </details>
  
  
-<details><summary>Volpi Tech [Financeiro 🪙] {TS, ChakraUi}</summary>
+<details><summary>Volpi Tech [Financeiro 💵] {TS, ChakraUi}</summary>
 
 [Volpi.kassio.site](https://volpi.kassio.site)<br />
  Site institucional e calculadora para financiamentos imobiliários. <br />
