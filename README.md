@@ -66,7 +66,7 @@ Confira meus últimos projetos e suas respectivas tecnologias:
 
 <details><summary>BeeOrtho [Dentista 🦷] {JS, ChakraUi, Firebase}</summary>
 
-[BeeOrtho.com](https://beeortho.com)<br />
+[Dentista.kassio.site](https://dentista.kassio.site)<br />
  Aplicativo web para dentistas gerenciarem seus pacientes com dados ortodonticos. <br />
  Autenticação com conta Google, CRUD com firebase, layout com ChakraUi, Data fetching clientside <br />
  </details>
