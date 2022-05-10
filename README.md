@@ -7,6 +7,15 @@ Trabalho com sites e sistemas web desde 2010 (wordpress), e com programação de
 
 Em 2020 aprendi React e React Native e no início de 2021 ja coloquei em prática com os projetos abaixo.<br><br>
 
+## Formação:
+React e React Native<br>
+[![Rocketseat](https://img.shields.io/badge/Rocketseat-8257E6?style=for-the-badge)](https://app.rocketseat.com.br/me/kassiogluten)<br>
+[Certificado](https://app.rocketseat.com.br/certificates/c658bfdb-1722-45af-8935-9736e1775fe0)
+<br><br>
+Javascript<br>
+![Origamid](https://img.shields.io/badge/Origamid-9833F7?style=for-the-badge)
+
+
 ## Tecnologias que uso atualmente:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -14,7 +23,7 @@ Em 2020 aprendi React e React Native e no início de 2021 ja coloquei em prátic
 ![Chakra UI](https://img.shields.io/badge/Styled_Components-DB7093?&style=for-the-badge&logo=styledcomponents&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
+![Firebase](https://img.shields.io/badge/Firebase-FFA714?style=for-the-badge&logo=firebase&logoColor=white&textColor=%22white%22)
 
 
 <br><br>
@@ -189,7 +198,8 @@ Tema próprio, custom post types, filtros avançados.
 
 
 # Contato
-[![Discord](https://img.shields.io/badge/kassiogluten%231641-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NKf3G3nRvP)
+[![Discord](https://img.shields.io/badge/kassiogluten%231641-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NXWp8Jw5KY)
 [![Gmail](https://img.shields.io/badge/kassiogluten@gmail.com-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kassiogluten@gmail.com)
 [![Linkedin](https://img.shields.io/badge/KassioAlcantara-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kassio-alcantara-gluten-ab2b75149/)
+
 
