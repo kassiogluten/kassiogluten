@@ -31,18 +31,33 @@ Javascript<br>
 Confira meus últimos projetos e suas respectivas tecnologias:
 
 ### WEB | ReactJS (2022):
-<details><summary>Meerkat [CRM 🦂] {Next, ChakraUi, GrapQl, Dashboard, Stripe, Webhooks}</summary>
- 
- [EM BREVE](#)<br />
- Institucional de uma agencia de publicidade, plataforma / dashboard para controle de clientes, pagamentos de assinatura premium (stripe)  <br />
- Chakra-Ui, NextJS, Stripe, Webhooks, Autenticação com firebase. <br />
+
+<details><summary>Inpa Online [Sessões de psicologia Online 🧠] {Next, ChakraUi}</summary>
+
+[Inpa.kanel.com.br](https://inpa.kanel.com.br)<br />
+ Painel completo para sessões e terapias online <br />
+ ContextAPI
+ Adonis + Postgresql
+ Gateway PagarME
  </details>
+
+ <details><summary>Cálculo Certo [Projetos para vidraçaria ⚒️] {Next, ChakraUi}</summary>
+
+[CalculoCerto.app](https://painel.calculocerto.app)<br />
+ Painel completo para vidraçarias realizarem projetos e orçamentos. Alem de controle de clientes, estoque e finanças. <br />
+ NEXTJS + ChakraUI
+ ContextAPI
+ Firebase + Express
+ Gateway Asaas
+ </details>
+
+ 
  
  <details><summary>LHF Asset [Investimentos 📈] {Next, ChakraUi}</summary>
 
-[LHF.kassio.site](https://lhf.kassio.site)<br />
+[LHF.kanel.com.br](https://lhf.kanel.com.br)<br />
  Dashboard web para controle de investimentos. <br />
- EM CONSTRUÇÃO
+ NEXTJS + ChakraUI (Estático)
  </details>
  
  <details><summary>Mais Voce Motors [Leilão 🚘] {Next, ChakraUi, Firebase}</summary>
@@ -52,15 +67,9 @@ Confira meus últimos projetos e suas respectivas tecnologias:
  Autenticação com conta Google, CRUD com firebase, layout com ChakraUi, Data fetching clientside <br />
  </details>
  
- <details><summary>Lara Machado [Estética 💅] {Next, ChakraUi, API}</summary>
+ <details><summary>Marina Fernandes [Blogueira 👩] {Next, ChakraUi, GrapQl}</summary>
 
-[lara.kassio.site](https://lara.kassio.site)<br />
- Landing page para um info produto de estética. <br />
- </details>
-
-<details><summary>Marina Fernandes [Blogueira 👩] {Next, ChakraUi, GrapQl}</summary>
-
-[Marina.kassio.site](https://marina.kassio.site)<br />
+[MarinaFernandes.com.br](https://marinafernandes.com.br)<br />
  Um Blog no nicho feminino / fitness / mamães / viagens para a influencer Marina Fernandes. <br />
  GraphCMS, GrapQl e Chakra-Ui. NextJS com geração estática (SSG) <br />
  </details>
@@ -68,33 +77,24 @@ Confira meus últimos projetos e suas respectivas tecnologias:
  
 <details><summary>Volpi Tech [Financeiro 💵] {TS, ChakraUi}</summary>
 
-[Volpi.kassio.site](https://volpi.kassio.site)<br />
+[Volpi.Tech](https://volpi.tech)<br />
  Site institucional e calculadora para financiamentos imobiliários. <br />
  Typescript e Chakra-Ui, projeto com React tradicional <br />
  </details>
 
 <details><summary>BeeOrtho [Dentista 🦷] {JS, ChakraUi, Firebase}</summary>
 
-[Dentista.kassio.site](https://dentista.kassio.site)<br />
+[BeeOrtho.come](https://beeortho.com)<br />
  Aplicativo web para dentistas gerenciarem seus pacientes com dados ortodonticos. <br />
  Autenticação com conta Google, CRUD com firebase, layout com ChakraUi, Data fetching clientside <br />
  </details>
  
- <details><summary>CineItauna [Cinema 🎥] {JS, ChakraUi, API}</summary>
-
-[CineItauna.kassio.site](https://cineitauna.kassio.site)<br />
- Aplicativo web para os colaboradores do cinema gerar imagens de social media. <br />
- Escolha o filme e clique na imagem para alterar os dados. <br />
- Lista automática de filmes sempre atualizada com API, canvas para salvar a div com jpg. <br />
- </details>
-
-
 
 ### WEB | ReactJS (2021):
 
 <details><summary>NossaNet [Internet 🌐] {React, StyledComponents}</summary>
 
-[nossanet.kassio.site](https://nossanet.kassio.site)<br />
+[nNssaNet.net.br](https://nossanet.net.br)<br />
  Site institucional para um provedor de internet. <br />
  Meu primeiro site em React, usado para experimentos com: styled components, css tradicional, sass, framer motion, emailjs  <br />
  </details>
@@ -122,7 +122,7 @@ Confira meus últimos projetos e suas respectivas tecnologias:
  
 <details><summary>Sarah Jacob [Moda 👗] {Next, ChakraUi, Headless WP}</summary>
  
-[sara.kassio.site](https://sara.kassio.site)<br />
+[sara.kanel.com.br](https://sara.kanel.com.br)<br />
  Site institucional para uma estilista. <br />
  NextJS, ChakraUI, React Hook Form, ContextApi, Headless WordPress.<br />
  Backend do Nextjs: requisições com Axios para envio de emails do Sendgrid.
@@ -131,8 +131,8 @@ Confira meus últimos projetos e suas respectivas tecnologias:
  
  <details><summary>Propter Negócios [Contabilidade 💸] {Next, ChakraUi, Prismic}</summary>
  
-[propter.kassio.site](https://propter.kassio.site)<br />
- Site institucional para um contador. <br />
+[PropterNegocios.com.br](https://propternegocios.com.br)<br />
+ Site institucional para empresa de contabilidade. <br />
  NextJS, ChakraUI, React Hook Form, ContextApi.<br />
  Backend do Nextjs: requisições com Axios para envio de emails do Sendgrid.
  
@@ -140,21 +140,14 @@ Confira meus últimos projetos e suas respectivas tecnologias:
  
  <details><summary>Tion App [Mobilidade 🚗] {Next, ChakraUi, Firebase}</summary>
  
-[tionapp.com.br](https://tionapp.com.br)<br />
+[TionApp.com.br](https://tionapp.com.br)<br />
  Site institucional para um aplicativo de mobilidade urbana. <br />
  NextJS, ChakraUI, React Hook Form.<br />
  Backend do Nextjs: requisições com Axios para envio de emails do Sendgrid.
  
  </details>
  
-  <details><summary>Bibi Delivery [Entregas 🛵] {React, ChakraUi}</summary>
- 
-[bibi.kassio.site](https://bibi.kassio.site)<br />
- Site institucional para um aplicativo de entregas. <br />
-Em construção
- 
- </details>
- <br>
+   <br>
  <details>
   <summary>
     ### Wordpress (2020):
@@ -166,13 +159,6 @@ Site institucional para uma cafeeira. <br />
 Tema próprio, popup's.
 </details>
  
- <details><summary>Vital Saude Card [Saúde 💊]</summary>
- 
-[vitalsaude.com.br](https://vitalsaude.com.br)<br />
-Site institucional para uma empresa de cartão desconto.<br />
-Tema próprio, custom post types, filtros avançados.
- </details>
-
 <details><summary>Construtora GN Martins [Engenharia 🏗️]</summary>
 
 [gnmartins.com.br](https://gnmartins.com.br)<br />
@@ -180,15 +166,7 @@ Tema próprio, custom post types, filtros avançados.
  Tema próprio, custom post types, custom field's, looping.
  </details>
  
- <details><summary>Caverna Sports [E-commerce 🛒]</summary>
-
-[cavernasports.com.br](https://loja.cavernasports.com.br)<br />
- Loja online para produtos esportivos.<br />
- Tema próprio, Woocommerce.
- </details>
- </details>
- 
- <br>
+<br>
 
 ### App's | React Native:
 - BeeOrto [PlayStore](https://play.google.com/store/apps/details?id=com.beeortho.twa)
